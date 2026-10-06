@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project4 from "../assets/projects/image.png";
 
 export const HERO_CONTENT = `I'm a passionate Full-Stack Developer with a strong foundation in the MERN stack. I have hands-on experience in developing dynamic, user-friendly web applications, from frontend interfaces to backend infrastructure. My expertise includes working with technologies like React, Node.js, Express, and MongoDB, allowing me to create scalable and efficient solutions.`;
 
@@ -15,13 +15,22 @@ Feel free to browse through my projects and get in touch if you’d like to coll
 
 export const EXPERIENCES = [
   {
-    year: "2023 - 2023",
+    year: "Aug 2023 - Sep 2023",
     role: "Web Developer Intern",
     company: "Exposys Data Labs",
     description: `During my internship at Exposys Data Lab, I worked as a Web Developer, focusing on designing, developing, and maintaining 
                   web applications. I collaborated with a team to implement modern web technologies, optimize performance, and enhance 
                   user experience. `,
     technologies: ["Javascript", "React.js", "Node.js", "mongoDB"],
+  },
+  {
+    year: "Jan 2025 - current",
+    role: "Research Software Engineer",
+    company: "Tata Consultancy Services",
+    description: `During my internship at Exposys Data Lab, I worked as a Web Developer, focusing on designing, developing, and maintaining 
+                  web applications. I collaborated with a team to implement modern web technologies, optimize performance, and enhance 
+                  user experience. `,
+    technologies: ["FastAPI", "Postgresql", "NextJs", "Kubernetes", "Docker", "SDLC", "Python", "Cpp", "RAG"],
   },
 ];
 

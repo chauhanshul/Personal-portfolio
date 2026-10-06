@@ -4,12 +4,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        react: "#61DAFB",
-        mongodb: "#4DB33D",
-        ejs: "#3C8DBC",
-        nodejs: "#8CC84B",
-        cpp: "#00599C",
-        javascript: "#F7DF1E",
+        react : "#61DAFB",
+        fast: "#00C7B7",
+        postgres: "#5B9BD5",
+        kubernetes: "#326CE5",
+        git: "#F05032",
+        python: "#3776AB",
       },
     },
   },
